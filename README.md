@@ -28,7 +28,7 @@ All components are explained, implemented, and visualized step-by-step to aid de
 - Walked through how gradients are calculated and flow backwards.
 
 ### ✅ `karpathy 003.ipynb` - Neuron by Neuron
-- Defined a `Neuron` using the `Value` class.
+- Updated the `Value` class.
 - Implemented `tanh` activation function manually.
 - Performed a manual forward + backward pass on a neuron.
 - Encapsulated neuron logic for reuse.
